@@ -9,6 +9,8 @@ graph TD
     D -->|Low| C
 ```
 
+![Graph](diagram.png)
+
 ### Optimization Techniques
 - **Indexing:** Add indexes on filtered/sorted columns
 - **Partial Materialization:** Only store hot data subsets
